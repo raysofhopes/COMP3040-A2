@@ -1,0 +1,43 @@
+# **Souvik Ray**
+
+- **Email:** souvikray@live.com
+- **Phone:** 204-698-4682
+- **Location:** Winnipeg MB
+
+### Summary
+
+I am a final year student at the University of Manitoba pursuing a major in Computer Science and a minor in Economics. Certified IBM Data Analyst with a strong foundation in technology and commerce. Eager to develop skills in using technology to drive business and financial strategies. Looking to pursue the CPA designation upon graduation.
+
+### Experience
+
+#### Software Developer - Android
+**Royal Bank of Canada, Toronto Ontario**  
+*05/2021 - 09/2021*
+
+- Conducted thorough testing and debugging of applications to identify and resolve issues, ensuring optimal performance.
+- Prototyped new features and functionality in alignment with project requirements and design specifications.
+- Proactively researched and stayed up-to-date with the latest Android development trends, tools, and best practices.
+
+#### Strategy Consulting Virtual Experience Program
+**Boston Consulting Group, Winnipeg MB**  
+*08/2020*
+
+- Strategy Consulting Virtual Experience Program Certificate from Forage (earlier Inside Sherpa).
+- Efficiently cleaned, analyzed, and dashboarded data.
+- Performed case studies to give recommendations to clients based on a data-driven, insight-based strategy.
+
+### Education
+
+**Computer Science - Economics**  
+University of Manitoba, Winnipeg Manitoba  
+Expected Graduation: 04/2024
+
+### Technologies
+- **Cloud Computing:** AWS
+- **Data Analysis:** Cleaning, analyzing, and dashboarding with Cognos, PowerBI, Microsoft Excel
+- **Programming Languages:** Python, Java, Javascript, SQL
+
+### Certificates
+
+- Google Digital Marketing Certificate
+- IBM Professional Data Analyst Certificate
