@@ -23,6 +23,6 @@ title: Souviks Portfolio
 description: A portfolio website developed using Jekyll and hosted on Github Pages.
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
