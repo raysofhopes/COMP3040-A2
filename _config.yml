@@ -24,3 +24,5 @@ description: A portfolio website developed using Jekyll and hosted on Github Pag
 
 # Build settings
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
