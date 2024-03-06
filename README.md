@@ -41,7 +41,7 @@ For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/
 
 ## Animated GIF
 
-![Resume Upload Process](link-to-gif-here)
+![myresumeGIF](https://i.makeagif.com/media/3-06-2024/tQWaxb.gif)
 
 ## More Resources
 
