@@ -67,6 +67,7 @@ For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Markdown Guide](https://www.markdowntutorial.com/)
+- [Guide to Static Site Generator](https://medium.com/@harish_rajora/a-beginners-guide-to-static-site-generator-806583fd81f3)
 
 ## Authors and Acknowledgements
 
