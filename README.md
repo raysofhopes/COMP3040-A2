@@ -9,6 +9,8 @@ title: "README"
 
 This guide aims to explain how to host a website on GitHub Pages, focusing on hosting a resume. It also introduces the principles of Modern Technical Writing by Andrew Etter, demonstrating these principles through the process.
 
+You can access the website here and view my resume: [raysofhopes.github.io](https://raysofhopes.github.io)
+
 ## Prerequisites
 
 - A GitHub account
