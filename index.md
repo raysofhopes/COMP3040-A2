@@ -7,4 +7,4 @@ Welcome to my portfolio! I'm Souvik Ray, a Computer Science and Economics studen
 <a href="/resume.html" class="btn">View My Resume</a>
 
 
-<a href="/readme.html" class="btn">How to make this website</a>
+<a href="/README.html" class="btn">How to make this website</a>
