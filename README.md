@@ -3,7 +3,7 @@
 ## Purpose
 
 This guide aims to explain how to host a website on GitHub Pages, focusing on hosting a resume. It also introduces the principles of Modern Technical Writing by Andrew Etter, demonstrating these principles through the process.
----
+
 ## Prerequisites
 
 - A GitHub account
@@ -12,7 +12,7 @@ This guide aims to explain how to host a website on GitHub Pages, focusing on ho
 - (Optional) Download and install Jekyll
 
 For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/).
----
+
 ## Instructions
 
 ### Creating a Markdown Formatted Resume
@@ -51,23 +51,22 @@ For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/
 *Optional*: If you prefer a custom domain over the default `github.io` domain, you can configure it in your repository's settings under the GitHub Pages section. Remember to update your DNS settings accordingly.
 
 
----
 ## Animated GIF
 
 ![myresumeGIF](https://i.makeagif.com/media/3-06-2024/tQWaxb.gif)
----
+
 ## More Resources
 
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Markdown Guide](https://www.markdowntutorial.com/)
----
+
 ## Authors and Acknowledgements
 
 Thank you to Andrew Etter for his insightful book on Technical Writing.
 
 Also a big thank you to my team members Jahidul and Shadib for helping with error checking and analysis.
----
+
 ## FAQs
 
 1. **Why is Markdown better than a word processor?**
