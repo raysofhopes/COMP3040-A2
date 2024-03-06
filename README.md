@@ -78,14 +78,25 @@ Also a big thank you to my team members Jahidul and Shadib for helping with erro
 ## FAQs
 
 1. **Why is Markdown better than a word processor?**
-  Markdown is lightweight, portable, and can be easily converted to HTML, making it ideal for online hosting.
+
+   Markdown is lightweight, portable, and can be easily converted to HTML, making it ideal for online hosting.
 
 2. **Why is my resume not showing up?**
-  Ensure you've enabled GitHub Pages in your repository settings and the file is named `index.md` or correctly linked in your `_config.yml`.
+
+   Ensure you've enabled GitHub Pages in your repository settings and the file is named `index.md` or correctly linked in your `_config.yml`.
+
+3. **How do I customize the look of my GitHub Pages site?**
+
+   You can customize your site by editing the CSS files directly or by using a theme. Jekyll themes allow for easy customization and can be set in your _config.yml file.
+
+4. **Can I use my own domain name with GitHub Pages?**
+
+   Yes, you can use a custom domain with GitHub Pages by updating your repository's settings and configuring your domain's DNS records accordingly.
 
 ## Software Stack Used
 
 - Markdown
-- Visual Studio Code (or your preferred Markdown editor)
+- Visual Studio Code
+- Dillinger
 - GitHub Pages
 - Jekyll
