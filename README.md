@@ -1,3 +1,8 @@
+---
+layout: post
+title: "README"
+---
+
 # Hosting a Resume on GitHub Pages
 
 ## Purpose
