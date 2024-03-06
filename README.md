@@ -3,7 +3,7 @@
 ## Purpose
 
 This guide aims to explain how to host a website on GitHub Pages, focusing on hosting a resume. It also introduces the principles of Modern Technical Writing by Andrew Etter, demonstrating these principles through the process.
-
+---
 ## Prerequisites
 
 - A GitHub account
@@ -12,7 +12,7 @@ This guide aims to explain how to host a website on GitHub Pages, focusing on ho
 - (Optional) Download and install Jekyll
 
 For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/).
-
+---
 ## Instructions
 
 ### Creating a Markdown Formatted Resume
@@ -39,22 +39,35 @@ For a detailed Markdown tutorial, [click here](https://www.markdowntutorial.com/
 2. **Enable GitHub Pages**: Go to your GitHub repository settings, find the GitHub Pages section, and select the `main` branch as the source.
 3. **From Etter's book**: Andrew Etter advocates for the use of distributed version control systems (DVCS) like Git and Mercurial in documentation workflows, emphasizing their advantages over centralized systems. The primary benefits he outlines include improved performance, the ability to work offline, and superior handling of concurrent edits to the same file. However, the most compelling reason for technical writers to adopt DVCS is its preference among developers.
 
+### Things to Keep in Mind
+
+#### Repository Naming
+**Required**: For your GitHub Pages site, ensure the repository is named `username.github.io`, replacing `username` with your GitHub username. This specific naming convention is crucial for GitHub to recognize the repository as a GitHub Pages site and automatically serve it at `http(s)://username.github.io`.
+
+#### Content Organization
+*Optional*: Keep your repository organized by using folders for different sections of your site (e.g., `/blog`, `/projects`) and maintain a clean root directory. Use a `README.md` file to provide an overview of your repository and instructions for visitors.
+
+#### Custom Domain
+*Optional*: If you prefer a custom domain over the default `github.io` domain, you can configure it in your repository's settings under the GitHub Pages section. Remember to update your DNS settings accordingly.
+
+
+---
 ## Animated GIF
 
 ![myresumeGIF](https://i.makeagif.com/media/3-06-2024/tQWaxb.gif)
-
+---
 ## More Resources
 
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Markdown Guide](https://www.markdowntutorial.com/)
-
+---
 ## Authors and Acknowledgements
 
 Thank you to Andrew Etter for his insightful book on Technical Writing.
 
 Also a big thank you to my team members Jahidul and Shadib for helping with error checking and analysis.
-
+---
 ## FAQs
 
 1. **Why is Markdown better than a word processor?**
